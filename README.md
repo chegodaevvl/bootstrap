@@ -1,6 +1,5 @@
-# Верстка сайта bootstrap
+# Website layout using bootstrap
 
-Учебный проект
+Website layout is made based on Figma templates.
 
-Верстка сайта по макету Figma на сетках Bootstrap.
-Адаптивность, доступность.
+I used: HTML5, CSS3, Bootstrap.
